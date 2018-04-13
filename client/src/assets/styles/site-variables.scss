@@ -1,0 +1,16 @@
+/*
+Site-wide variables. Includes app and 3rd party variables.
+ */
+
+// Framework CSS variables
+@import "global/variables";
+
+// Update/add variables
+
+// 3rd party imports (i.e. Bootstrap, Foundation)
+// @import "../../../node_modules/bootstrap/scss/functions";
+// @import "global/bootstrap/bootstrap-variables";
+// @import "../../../node_modules/bootstrap/scss/mixins";
+
+// Framework mixins
+@import "global/mixins/index";

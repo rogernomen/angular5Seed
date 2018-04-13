@@ -1,0 +1,179 @@
+{
+  "collectionTypes": [
+    {
+      "id": "col15717",
+      "name": "SHOES  4 MAN",
+      "order": 560
+    },
+    {
+      "id": "IDTCOL000100",
+      "name": "SHOES  4 WOMAN",
+      "order": 520
+    },
+    {
+      "id": "col15713",
+      "name": "SHOES",
+      "order": 999
+    },
+    {
+      "id": "col15715",
+      "name": "SHOES  4 KIDS",
+      "order": 540
+    },
+    {
+      "id": "col24933",
+      "name": "LIVING DECO",
+      "order": 645
+    },
+    {
+      "id": "col24939",
+      "name": "SHOES  4 MAN",
+      "order": 999
+    },
+    {
+      "id": "col24938",
+      "name": "MAN",
+      "order": 300
+    },
+    {
+      "id": "col24936",
+      "name": "LIVING WEAR",
+      "order": 660
+    },
+    {
+      "id": "col24935",
+      "name": "LIVING BED",
+      "order": 615
+    },
+    {
+      "id": "col24934",
+      "name": "LIVING BATH",
+      "order": 630
+    },
+    {
+      "id": "IDCOLE000004",
+      "name": "COMPLEMENTOS",
+      "order": 200
+    },
+    {
+      "id": "IDCOLE000003",
+      "name": "KIDS",
+      "order": 400
+    },
+    {
+      "id": "IDCOLE000002",
+      "name": "HOMBRE",
+      "order": 300
+    },
+    {
+      "id": "IDCOLE000001",
+      "name": "MUJER",
+      "order": 100
+    },
+    {
+      "id": "col4653",
+      "name": "MARKETING",
+      "order": 975
+    },
+    {
+      "id": "col24985",
+      "name": "SHOES  4 WOMAN",
+      "order": 520
+    },
+    {
+      "id": "col24986",
+      "name": "WOMAN",
+      "order": 100
+    },
+    {
+      "id": "col24987",
+      "name": "MARKETING",
+      "order": 975
+    },
+    {
+      "id": "col24984",
+      "name": "ACCESSORIES",
+      "order": 200
+    },
+    {
+      "id": "col7773",
+      "name": "BABY BOY",
+      "order": 460
+    },
+    {
+      "id": "col7776",
+      "name": "BABY GIRL",
+      "order": 445
+    },
+    {
+      "id": "I",
+      "name": "LIVING DECO",
+      "order": 645
+    },
+    {
+      "id": "col24095",
+      "name": "BABY",
+      "order": 460
+    },
+    {
+      "id": "col24093",
+      "name": "NIÑA",
+      "order": 415
+    },
+    {
+      "id": "col24094",
+      "name": "SHOES  4 KIDS",
+      "order": 999
+    },
+    {
+      "id": "col12385",
+      "name": "SPORT",
+      "order": 700
+    },
+    {
+      "id": "col24092",
+      "name": "NIÑO",
+      "order": 430
+    },
+    {
+      "id": "col44",
+      "name": "NIÑO",
+      "order": 430
+    },
+    {
+      "id": "col19966",
+      "name": "LIVING WEAR",
+      "order": 660
+    },
+    {
+      "id": "col42",
+      "name": "NIÑA",
+      "order": 415
+    },
+    {
+      "id": "col25252",
+      "name": "SPORT APPAREL",
+      "order": 701
+    },
+    {
+      "id": "col25253",
+      "name": "SPORT ACCESSORIES",
+      "order": 702
+    },
+    {
+      "id": "col8023",
+      "name": "LIVING BED",
+      "order": 615
+    },
+    {
+      "id": "col25254",
+      "name": "SPORT SHOES",
+      "order": 703
+    },
+    {
+      "id": "col8025",
+      "name": "LIVING BATH",
+      "order": 630
+    }
+  ]
+}

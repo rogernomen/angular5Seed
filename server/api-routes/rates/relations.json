@@ -1,0 +1,274 @@
+{
+  "priceListRelations": [
+    {
+      "priceListRelationId": "2000001",
+      "wholesaleId": "plist1100008",
+      "wholesaleName": "01 - LEBANON RSP GBP £",
+      "retailId": "plist1100008",
+      "retailName": "01 - LEBANON RSP GBP £",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1520501055075
+    },
+    {
+      "priceListRelationId": "900003",
+      "wholesaleId": "plist230053",
+      "wholesaleName": "84 - Asia WH USD $",
+      "retailId": "plist1460003",
+      "retailName": "35 - HK RSP HKD HK$",
+      "countryId": "IDPAIS000066",
+      "countryName": "España",
+      "creationDate": 1512130323245
+    },
+    {
+      "priceListRelationId": "900002",
+      "wholesaleId": "plist18070003",
+      "wholesaleName": "D6 - CHINA WH USD $",
+      "retailId": "plist33640004",
+      "retailName": "H7 - CHINA ONLINE RSP CNY ￥",
+      "countryId": "IDPAIS000092",
+      "countryName": "Hong Kong",
+      "creationDate": 1512129775160
+    },
+    {
+      "priceListRelationId": "900001",
+      "wholesaleId": "plist18070003",
+      "wholesaleName": "D6 - CHINA WH USD $",
+      "retailId": "plist33640004",
+      "retailName": "H7 - CHINA ONLINE RSP CNY ￥",
+      "countryId": "IDPAIS000066",
+      "countryName": "España",
+      "creationDate": 1512044646634
+    },
+    {
+      "priceListRelationId": "700001",
+      "wholesaleId": "plist230011",
+      "wholesaleName": "24 - INTERNACIONAL WH EUR €",
+      "retailId": "plist27380003",
+      "retailName": "E3 - FINLAND RSP EUR €",
+      "countryId": "IDPAIS000068",
+      "countryName": "Finlandia",
+      "creationDate": 1463473451117
+    },
+    {
+      "priceListRelationId": "600001",
+      "wholesaleId": "plist26440007",
+      "wholesaleName": "L1 - COLOMBIA EUR €",
+      "retailId": "plist230013",
+      "retailName": "26 - COLOMBIA RSP COP $",
+      "countryId": "IDPAIS000047",
+      "countryName": "Colombia",
+      "creationDate": 1460714613613
+    },
+    {
+      "priceListRelationId": "500001",
+      "wholesaleId": "plist18070003",
+      "wholesaleName": "D6 - CHINA WH USD $",
+      "retailId": "plist26580006",
+      "retailName": "D5 - CHINA RSP CNY ￥",
+      "countryId": "IDPAIS000046",
+      "countryName": "China",
+      "creationDate": 1457955519857
+    },
+    {
+      "priceListRelationId": "400001",
+      "wholesaleId": "plist230011",
+      "wholesaleName": "24 - INTERNACIONAL WH EUR €",
+      "retailId": "plist230028",
+      "retailName": "59 - SWEDEN RSP SEK kr",
+      "countryId": "IDPAIS000189",
+      "countryName": "Suecia",
+      "creationDate": 1456150616292
+    },
+    {
+      "priceListRelationId": "300001",
+      "wholesaleId": "plist18520003",
+      "wholesaleName": "E8 - Panamà USD $",
+      "retailId": "plist230015",
+      "retailName": "28 - INTERNACIONAL PVP EUR €",
+      "countryId": "IDPAIS000166",
+      "countryName": "Panamá",
+      "creationDate": 1453392833408
+    },
+    {
+      "priceListRelationId": "100017",
+      "wholesaleId": "plist230053",
+      "wholesaleName": "84 - Asia WH USD $",
+      "retailId": "plist1460003",
+      "retailName": "35 - HK RSP HKD HK$",
+      "countryId": "IDPAIS000141",
+      "countryName": "Macao",
+      "creationDate": 1440672422001
+    },
+    {
+      "priceListRelationId": "100016",
+      "wholesaleId": "plist25130003",
+      "wholesaleName": "H4 - HK WH USD $",
+      "retailId": "plist1460003",
+      "retailName": "35 - HK RSP HKD HK$",
+      "countryId": "IDPAIS000141",
+      "countryName": "Macao",
+      "creationDate": 1440659963180
+    },
+    {
+      "priceListRelationId": "100015",
+      "wholesaleId": "plist230053",
+      "wholesaleName": "84 - Asia WH USD $",
+      "retailId": "plist27190005",
+      "retailName": "D8 - INDONESIA RSP USD $",
+      "countryId": "IDPAIS000098",
+      "countryName": "Indonesia",
+      "creationDate": 1440146003945
+    },
+    {
+      "priceListRelationId": "100014",
+      "wholesaleId": "plist230053",
+      "wholesaleName": "84 - Asia WH USD $",
+      "retailId": "plist260005",
+      "retailName": "96 - PRECIOS CORNERS MALAYSIA USD $",
+      "countryId": "IDPAIS000151",
+      "countryName": "Malasia",
+      "creationDate": 1439998519156
+    },
+    {
+      "priceListRelationId": "100013",
+      "wholesaleId": "plist25130003",
+      "wholesaleName": "H4 - HK WH USD $",
+      "retailId": "plist26580006",
+      "retailName": "D5 - CHINA RSP CNY ￥",
+      "countryId": "IDPAIS000046",
+      "countryName": "China",
+      "creationDate": 1439887685472
+    },
+    {
+      "priceListRelationId": "100012",
+      "wholesaleId": "plist230053",
+      "wholesaleName": "84 - Asia WH USD $",
+      "retailId": "plist27190003",
+      "retailName": "E1 - FILIPINAS RSP USD $",
+      "countryId": "IDPAIS000170",
+      "countryName": "Filipinas",
+      "creationDate": 1439824366487
+    },
+    {
+      "priceListRelationId": "200003",
+      "wholesaleId": "plist230053",
+      "wholesaleName": "84 - Asia WH USD $",
+      "retailId": "plist1460003",
+      "retailName": "35 - HK RSP HKD HK$",
+      "countryId": "IDPAIS000092",
+      "countryName": "Hong Kong",
+      "creationDate": 1439383745022
+    },
+    {
+      "priceListRelationId": "200002",
+      "wholesaleId": "plist25130003",
+      "wholesaleName": "H4 - HK WH USD $",
+      "retailId": "plist1460003",
+      "retailName": "35 - HK RSP HKD HK$",
+      "countryId": "IDPAIS000092",
+      "countryName": "Hong Kong",
+      "creationDate": 1439383722932
+    },
+    {
+      "priceListRelationId": "200001",
+      "wholesaleId": "plist230053",
+      "wholesaleName": "84 - Asia WH USD $",
+      "retailId": "plist33640004",
+      "retailName": "H7 - CHINA ONLINE RSP CNY ￥",
+      "countryId": "IDPAIS000046",
+      "countryName": "China",
+      "creationDate": 1439383685330
+    },
+    {
+      "priceListRelationId": "100011",
+      "wholesaleId": "plist17960003",
+      "wholesaleName": "F7 - MEXICO WH MXN $",
+      "retailId": "plist24500004",
+      "retailName": "F6 - MEXICO RETAIL MXN $",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438248899640
+    },
+    {
+      "priceListRelationId": "100010",
+      "wholesaleId": "plist230056",
+      "wholesaleName": "87 - JAPAN WH JPY ￥",
+      "retailId": "plist230038",
+      "retailName": "69 - JAPAN RSP  JPY ￥",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438248878447
+    },
+    {
+      "priceListRelationId": "100007",
+      "wholesaleId": "plist230018",
+      "wholesaleName": "31 - CANADA WH CAD $",
+      "retailId": "plist230017",
+      "retailName": "30 - CANADA RSP CAD $",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438247997166
+    },
+    {
+      "priceListRelationId": "100006",
+      "wholesaleId": "plist230014",
+      "wholesaleName": "27 - UK WH GBP £",
+      "retailId": "plist230055",
+      "retailName": "86 - UK RSP GBP £",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438247984817
+    },
+    {
+      "priceListRelationId": "100005",
+      "wholesaleId": "plist230011",
+      "wholesaleName": "24 - INTERNACIONAL WH EUR €",
+      "retailId": "plist230015",
+      "retailName": "28 - INTERNACIONAL PVP EUR €",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438247969560
+    },
+    {
+      "priceListRelationId": "100004",
+      "wholesaleId": "plist230009",
+      "wholesaleName": "22 - SPAIN WH EUR €",
+      "retailId": "plist16820003",
+      "retailName": "E7 - SPAIN + PT RSP EUR €",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438247952359
+    },
+    {
+      "priceListRelationId": "100003",
+      "wholesaleId": "plist2690003",
+      "wholesaleName": "13 - SWITZERLAND WH CHF SFr.",
+      "retailId": "plist230061",
+      "retailName": "99 - SWITZERLAND RSP CHF SFr.",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438247930395
+    },
+    {
+      "priceListRelationId": "100002",
+      "wholesaleId": "plist1930014",
+      "wholesaleName": "10 - USA WH USD $",
+      "retailId": "plist16850003",
+      "retailName": "Z7 - USA RSP USD $",
+      "countryId": "ALL",
+      "countryName": "ALL",
+      "creationDate": 1438247905414
+    },
+    {
+      "priceListRelationId": "100001",
+      "wholesaleId": "plist230011",
+      "wholesaleName": "24 - INTERNACIONAL WH EUR €",
+      "retailId": "plist2320029",
+      "retailName": "6 - IRLANDA RSP EUR €",
+      "countryId": "IDPAIS000099",
+      "countryName": "Irlanda",
+      "creationDate": 1438247887885
+    }
+  ]
+}

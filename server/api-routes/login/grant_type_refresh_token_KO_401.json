@@ -1,0 +1,4 @@
+{
+  "error": "invalid_token",
+  "error_description": "Encoded token is not a refresh token"
+}

@@ -1,0 +1,16 @@
+/*
+Starting point. Imports the rest of the elements.
+To be imported in angular-cli styles.scss.
+*/
+
+// Variables
+@import "site-variables";
+
+// Framework CSS
+@import "global/index";
+
+// Site Layouts
+@import "layout/index";
+
+// Site's and 3rd party components overrides
+@import "components/index";

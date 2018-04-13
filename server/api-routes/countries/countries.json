@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "IDPAIS000003",
+    "name": "Afganistán"
+  },
+  {
+    "id": "IDPAIS000006",
+    "name": "Albania"
+  },
+  {
+    "id": "IDPAIS000055",
+    "name": "Alemania"
+  },
+  {
+    "id": "IDPAIS000001",
+    "name": "Andorra"
+  },
+  {
+    "id": "IDPAIS000009",
+    "name": "Angola"
+  },
+  {
+    "id": "IDPAIS000005",
+    "name": "Anguilla"
+  },
+  {
+    "id": "IDPAIS000004",
+    "name": "Antigua/Barbuda"
+  },
+  {
+    "id": "IDPAIS000008",
+    "name": "Antillas Neerl."
+  },
+  {
+    "id": "IDPAIS000010",
+    "name": "Antártida"
+  },
+  {
+    "id": "IDPAIS000185",
+    "name": "Arabia Saudí"
+  },
+  {
+    "id": "IDPAIS000060",
+    "name": "Argelia"
+  },
+  {
+    "id": "IDPAIS000011",
+    "name": "Argentina"
+  },
+  {
+    "id": "IDPAIS000007",
+    "name": "Armenia"
+  },
+  {
+    "id": "IDPAIS000015",
+    "name": "Aruba"
+  },
+  {
+    "id": "IDPAIS000014",
+    "name": "Australia"
+  },
+  {
+    "id": "IDPAIS000013",
+    "name": "Austria"
+  },
+  {
+    "id": "IDPAIS000016",
+    "name": "Azerbaiyán"
+  },
+  {
+    "id": "pai200008",
+    "name": "Azul"
+  },
+  {
+    "id": "IDPAIS000030",
+    "name": "Bahamas"
+  },
+  {
+    "id": "IDPAIS000023",
+    "name": "Bahráin"
+  },
+  {
+    "id": "IDPAIS000019",
+    "name": "Bangladesh"
+  },
+  {
+    "id": "IDPAIS000018",
+    "name": "Barbados"
+  },
+  {
+    "id": "IDPAIS000035",
+    "name": "Belice"
+  },
+  {
+    "id": "IDPAIS000025",
+    "name": "Benín"
+  },
+  {
+    "id": "IDPAIS000026",
+    "name": "Bermudas"
+  },
+  {
+    "id": "IDPAIS000034",
+    "name": "Bielorrusia"
+  },
+  {
+    "id": "IDPAIS000028",
+    "name": "Bolivia"
+  },
+  {
+    "id": "pai600001",
+    "name": "Bonaire, Saba"
+  },
+  {
+    "id": "IDPAIS000017",
+    "name": "Bosnia-Herz."
+  },
+  {
+    "id": "IDPAIS000033",
+    "name": "Botsuana"
+  },
+  {
+    "id": "IDPAIS000029",
+    "name": "Brasil"
+  },
+  {
+    "id": "IDPAIS000027",
+    "name": "Brunéi"
+  },
+  {
+    "id": "IDPAIS000022",
+    "name": "Bulgaria"
+  },
+  {
+    "id": "IDPAIS000021",
+    "name": "Burkina Faso"
+  },
+  {
+    "id": "IDPAIS000024",
+    "name": "Burundi"
+  },
+  {
+    "id": "IDPAIS000031",
+    "name": "Bután"
+  },
+  {
+    "id": "IDPAIS000020",
+    "name": "Bélgica"
+  },
+  {
+    "id": "IDPAIS000051",
+    "name": "Cabo Verde"
+  },
+  {
+    "id": "IDPAIS000112",
+    "name": "Camboya"
+  },
+  {
+    "id": "IDPAIS000045",
+    "name": "Camerún"
+  },
+  {
+    "id": "IDPAIS000036",
+    "name": "Canadá"
+  },
+  {
+    "id": "IDPAIS000205",
+    "name": "Chad"
+  },
+  {
+    "id": "IDPAIS000044",
+    "name": "Chile"
+  },
+  {
+    "id": "IDPAIS000046",
+    "name": "China"
+  },
+  {
+    "id": "IDPAIS000053",
+    "name": "Chipre"
+  },
+  {
+    "id": "IDPAIS000227",
+    "name": "Ciudad Vaticano"
+  },
+  {
+    "id": "IDPAIS000047",
+    "name": "Colombia"
+  },
+  {
+    "id": "IDPAIS000114",
+    "name": "Comoras"
+  },
+  {
+    "id": "IDPAIS000116",
+    "name": "Corea del Norte"
+  },
+  {
+    "id": "IDPAIS000117",
+    "name": "Corea del Sur"
+  },
+  {
+    "id": "IDPAIS000048",
+    "name": "Costa Rica"
+  },
+  {
+    "id": "IDPAIS000042",
+    "name": "Costa de Marfil"
+  },
+  {
+    "id": "IDPAIS000095",
+    "name": "Croacia"
+  },
+  {
+    "id": "IDPAIS000050",
+    "name": "Cuba"
+  },
+  {
+    "id": "pai500001",
+    "name": "Curaçao"
+  },
+  {
+    "id": "IDPAIS000057",
+    "name": "Dinamarca"
+  },
+  {
+    "id": "IDPAIS000058",
+    "name": "Dominica"
+  },
+  {
+    "id": "IDPAIS000002",
+    "name": "E.A.U."
+  },
+  {
+    "id": "IDPAIS000224",
+    "name": "EE.UU."
+  },
+  {
+    "id": "IDPAIS000061",
+    "name": "Ecuador"
+  },
+  {
+    "id": "IDPAIS000063",
+    "name": "Egipto"
+  },
+  {
+    "id": "IDPAIS000201",
+    "name": "El Salvador"
+  },
+  {
+    "id": "IDPAIS000065",
+    "name": "Eritrea"
+  },
+  {
+    "id": "IDPAIS000194",
+    "name": "Eslovaquia"
+  },
+  {
+    "id": "IDPAIS000192",
+    "name": "Eslovenia"
+  },
+  {
+    "id": "IDPAIS000066",
+    "name": "España"
+  },
+  {
+    "id": "IDPAIS000062",
+    "name": "Estonia"
+  },
+  {
+    "id": "IDPAIS000067",
+    "name": "Etiopía"
+  },
+  {
+    "id": "MANPAIS00079",
+    "name": "FRANCE, METROPOLITAN"
+  },
+  {
+    "id": "MANPAIS00016",
+    "name": "FRENCH SOUTHERN TERRITORI"
+  },
+  {
+    "id": "IDPAIS000183",
+    "name": "Federación Rusa"
+  },
+  {
+    "id": "IDPAIS000170",
+    "name": "Filipinas"
+  },
+  {
+    "id": "IDPAIS000068",
+    "name": "Finlandia"
+  },
+  {
+    "id": "IDPAIS000069",
+    "name": "Fiyi"
+  },
+  {
+    "id": "IDPAIS000073",
+    "name": "Francia"
+  },
+  {
+    "id": "pai200001",
+    "name": "French S.Territ"
+  },
+  {
+    "id": "IDPAIS000074",
+    "name": "Gabón"
+  },
+  {
+    "id": "IDPAIS000082",
+    "name": "Gambia"
+  },
+  {
+    "id": "IDPAIS000077",
+    "name": "Georgia"
+  },
+  {
+    "id": "IDPAIS000079",
+    "name": "Ghana"
+  },
+  {
+    "id": "IDPAIS000080",
+    "name": "Gibraltar"
+  },
+  {
+    "id": "IDPAIS000076",
+    "name": "Granada"
+  },
+  {
+    "id": "IDPAIS000086",
+    "name": "Grecia"
+  },
+  {
+    "id": "IDPAIS000081",
+    "name": "Groenlandia"
+  },
+  {
+    "id": "IDPAIS000084",
+    "name": "Guadalupe"
+  },
+  {
+    "id": "IDPAIS000089",
+    "name": "Guam"
+  },
+  {
+    "id": "IDPAIS000088",
+    "name": "Guatemala"
+  },
+  {
+    "id": "IDPAIS000078",
+    "name": "Guayana Franc."
+  },
+  {
+    "id": "pai300001",
+    "name": "Guernsey"
+  },
+  {
+    "id": "IDPAIS000083",
+    "name": "Guinea"
+  },
+  {
+    "id": "IDPAIS000085",
+    "name": "Guinea Ecuator."
+  },
+  {
+    "id": "IDPAIS000090",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "id": "IDPAIS000091",
+    "name": "Guyana"
+  },
+  {
+    "id": "IDPAIS000096",
+    "name": "Haití"
+  },
+  {
+    "id": "IDPAIS000094",
+    "name": "Honduras"
+  },
+  {
+    "id": "IDPAIS000092",
+    "name": "Hong Kong"
+  },
+  {
+    "id": "IDPAIS000097",
+    "name": "Hungría"
+  },
+  {
+    "id": "IDPAIS000101",
+    "name": "India"
+  },
+  {
+    "id": "IDPAIS000098",
+    "name": "Indonesia"
+  },
+  {
+    "id": "IDPAIS000103",
+    "name": "Iraq"
+  },
+  {
+    "id": "IDPAIS000099",
+    "name": "Irlanda"
+  },
+  {
+    "id": "IDPAIS000104",
+    "name": "Irán"
+  },
+  {
+    "id": "IDPAIS000093",
+    "name": "Is.Heard/Mcdon."
+  },
+  {
+    "id": "IDPAIS000231",
+    "name": "Is.Vírgenes USA"
+  },
+  {
+    "id": "IDPAIS000142",
+    "name": "Isl.Marianas N."
+  },
+  {
+    "id": "IDPAIS000087",
+    "name": "Isl.S.Sandwich"
+  },
+  {
+    "id": "IDPAIS000204",
+    "name": "Isl.Turcas y C."
+  },
+  {
+    "id": "IDPAIS000230",
+    "name": "Isl.Vírgenes GB"
+  },
+  {
+    "id": "IDPAIS000223",
+    "name": "IslMenAlejEEUU"
+  },
+  {
+    "id": "IDPAIS000052",
+    "name": "Isla Christmas"
+  },
+  {
+    "id": "IDPAIS000105",
+    "name": "Islandia"
+  },
+  {
+    "id": "IDPAIS000032",
+    "name": "Islas Bouvet"
+  },
+  {
+    "id": "IDPAIS000119",
+    "name": "Islas Caimán"
+  },
+  {
+    "id": "IDPAIS000037",
+    "name": "Islas Cocos"
+  },
+  {
+    "id": "IDPAIS000043",
+    "name": "Islas Cook"
+  },
+  {
+    "id": "IDPAIS000072",
+    "name": "Islas Feroe"
+  },
+  {
+    "id": "IDPAIS000070",
+    "name": "Islas Malvinas"
+  },
+  {
+    "id": "IDPAIS000163",
+    "name": "Islas Niue"
+  },
+  {
+    "id": "IDPAIS000156",
+    "name": "Islas Norfolk"
+  },
+  {
+    "id": "IDPAIS000174",
+    "name": "Islas Pitcairn"
+  },
+  {
+    "id": "IDPAIS000186",
+    "name": "Islas Salomón"
+  },
+  {
+    "id": "IDPAIS000210",
+    "name": "Islas Tokelau"
+  },
+  {
+    "id": "pai300003",
+    "name": "Isle of Jersey"
+  },
+  {
+    "id": "pai300002",
+    "name": "Isle of Man"
+  },
+  {
+    "id": "IDPAIS000100",
+    "name": "Israel"
+  },
+  {
+    "id": "IDPAIS000106",
+    "name": "Italia"
+  },
+  {
+    "id": "IDPAIS000107",
+    "name": "Jamaica"
+  },
+  {
+    "id": "IDPAIS000109",
+    "name": "Japón"
+  },
+  {
+    "id": "IDPAIS000108",
+    "name": "Jordania"
+  },
+  {
+    "id": "IDPAIS000120",
+    "name": "Kazajistán"
+  },
+  {
+    "id": "IDPAIS000110",
+    "name": "Kenia"
+  },
+  {
+    "id": "IDPAIS000111",
+    "name": "Kirguizistán"
+  },
+  {
+    "id": "IDPAIS000113",
+    "name": "Kiribati"
+  },
+  {
+    "id": "pai800001",
+    "name": "Kosovo"
+  },
+  {
+    "id": "IDPAIS000118",
+    "name": "Kuwait"
+  },
+  {
+    "id": "IDPAIS000121",
+    "name": "Laos"
+  },
+  {
+    "id": "IDPAIS000127",
+    "name": "Lesoto"
+  },
+  {
+    "id": "IDPAIS000130",
+    "name": "Letonia"
+  },
+  {
+    "id": "IDPAIS000126",
+    "name": "Liberia"
+  },
+  {
+    "id": "IDPAIS000131",
+    "name": "Libia"
+  },
+  {
+    "id": "IDPAIS000124",
+    "name": "Liechtenstein"
+  },
+  {
+    "id": "IDPAIS000128",
+    "name": "Lituania"
+  },
+  {
+    "id": "IDPAIS000129",
+    "name": "Luxemburgo"
+  },
+  {
+    "id": "IDPAIS000122",
+    "name": "Líbano"
+  },
+  {
+    "id": "IDPAIS000139",
+    "name": "MYANMAR"
+  },
+  {
+    "id": "IDPAIS000141",
+    "name": "Macao"
+  },
+  {
+    "id": "IDPAIS000137",
+    "name": "Macedonia"
+  },
+  {
+    "id": "IDPAIS000135",
+    "name": "Madagascar"
+  },
+  {
+    "id": "IDPAIS000151",
+    "name": "Malasia"
+  },
+  {
+    "id": "IDPAIS000149",
+    "name": "Malaui"
+  },
+  {
+    "id": "IDPAIS000148",
+    "name": "Maldivas"
+  },
+  {
+    "id": "IDPAIS000146",
+    "name": "Malta"
+  },
+  {
+    "id": "IDPAIS000138",
+    "name": "Malí"
+  },
+  {
+    "id": "IDPAIS000132",
+    "name": "Marruecos"
+  },
+  {
+    "id": "IDPAIS000143",
+    "name": "Martinica"
+  },
+  {
+    "id": "IDPAIS000147",
+    "name": "Mauricio (Isl.)"
+  },
+  {
+    "id": "IDPAIS000144",
+    "name": "Mauritania"
+  },
+  {
+    "id": "IDPAIS000237",
+    "name": "Mayotte"
+  },
+  {
+    "id": "IDPAIS000071",
+    "name": "Micronesia"
+  },
+  {
+    "id": "IDPAIS000134",
+    "name": "Moldavia"
+  },
+  {
+    "id": "IDPAIS000140",
+    "name": "Mongolia"
+  },
+  {
+    "id": "pai600002",
+    "name": "Montenegro"
+  },
+  {
+    "id": "IDPAIS000145",
+    "name": "Montserrat"
+  },
+  {
+    "id": "IDPAIS000152",
+    "name": "Mozambique"
+  },
+  {
+    "id": "pai200004",
+    "name": "Myanmar"
+  },
+  {
+    "id": "IDPAIS000150",
+    "name": "México"
+  },
+  {
+    "id": "IDPAIS000133",
+    "name": "Mónaco"
+  },
+  {
+    "id": "pai200003",
+    "name": "Naciones Unidas"
+  },
+  {
+    "id": "IDPAIS000153",
+    "name": "Namibia"
+  },
+  {
+    "id": "pai200006",
+    "name": "Naranja"
+  },
+  {
+    "id": "IDPAIS000162",
+    "name": "Nauru"
+  },
+  {
+    "id": "IDPAIS000161",
+    "name": "Nepal"
+  },
+  {
+    "id": "IDPAIS000158",
+    "name": "Nicaragua"
+  },
+  {
+    "id": "IDPAIS000157",
+    "name": "Nigeria"
+  },
+  {
+    "id": "IDPAIS000040",
+    "name": "No usar"
+  },
+  {
+    "id": "IDPAIS000160",
+    "name": "Noruega"
+  },
+  {
+    "id": "IDPAIS000154",
+    "name": "Nueva Caledonia"
+  },
+  {
+    "id": "IDPAIS000164",
+    "name": "Nueva Zelanda"
+  },
+  {
+    "id": "IDPAIS000155",
+    "name": "Níger"
+  },
+  {
+    "id": "pai200005",
+    "name": "OTAN"
+  },
+  {
+    "id": "IDPAIS000165",
+    "name": "Omán"
+  },
+  {
+    "id": "IDPAIS000171",
+    "name": "Pakistán"
+  },
+  {
+    "id": "IDPAIS000178",
+    "name": "Palaos"
+  },
+  {
+    "id": "IDPAIS000176",
+    "name": "Palestina"
+  },
+  {
+    "id": "IDPAIS000166",
+    "name": "Panamá"
+  },
+  {
+    "id": "IDPAIS000169",
+    "name": "PapuaNvaGuinea"
+  },
+  {
+    "id": "IDPAIS000179",
+    "name": "Paraguay"
+  },
+  {
+    "id": "IDPAIS000159",
+    "name": "Países Bajos"
+  },
+  {
+    "id": "IDPAIS000167",
+    "name": "Perú"
+  },
+  {
+    "id": "IDPAIS000168",
+    "name": "Polinesia fran."
+  },
+  {
+    "id": "IDPAIS000172",
+    "name": "Polonia"
+  },
+  {
+    "id": "IDPAIS000177",
+    "name": "Portugal"
+  },
+  {
+    "id": "IDPAIS000175",
+    "name": "Puerto Rico"
+  },
+  {
+    "id": "IDPAIS000180",
+    "name": "Qatar"
+  },
+  {
+    "id": "IDPAIS000075",
+    "name": "Reino Unido"
+  },
+  {
+    "id": "IDPAIS000039",
+    "name": "Rep.Centroafr."
+  },
+  {
+    "id": "IDPAIS000059",
+    "name": "Rep.Dominicana"
+  },
+  {
+    "id": "IDPAIS000054",
+    "name": "República Checa"
+  },
+  {
+    "id": "IDPAIS000038",
+    "name": "República Congo"
+  },
+  {
+    "id": "IDPAIS000181",
+    "name": "Reunión"
+  },
+  {
+    "id": "IDPAIS000184",
+    "name": "Ruanda"
+  },
+  {
+    "id": "IDPAIS000182",
+    "name": "Rumanía"
+  },
+  {
+    "id": "IDPAIS000115",
+    "name": "S.Cris.& Nieves"
+  },
+  {
+    "id": "IDPAIS000173",
+    "name": "S.Pedr.,Miquel."
+  },
+  {
+    "id": "IDPAIS000200",
+    "name": "S.Tomé,Príncipe"
+  },
+  {
+    "id": "IDPAIS000235",
+    "name": "Samoa Occident."
+  },
+  {
+    "id": "IDPAIS000012",
+    "name": "Samoa americana"
+  },
+  {
+    "id": "IDPAIS000196",
+    "name": "San Marino"
+  },
+  {
+    "id": "IDPAIS000228",
+    "name": "San Vicente"
+  },
+  {
+    "id": "IDPAIS000191",
+    "name": "Santa Helena"
+  },
+  {
+    "id": "IDPAIS000123",
+    "name": "Santa Lucía"
+  },
+  {
+    "id": "IDPAIS000197",
+    "name": "Senegal"
+  },
+  {
+    "id": "pai600003",
+    "name": "Serbia"
+  },
+  {
+    "id": "IDPAIS000049",
+    "name": "Serbia/Monten."
+  },
+  {
+    "id": "IDPAIS000187",
+    "name": "Seychelles"
+  },
+  {
+    "id": "IDPAIS000195",
+    "name": "Sierra Leona"
+  },
+  {
+    "id": "IDPAIS000190",
+    "name": "Singapur"
+  },
+  {
+    "id": "pai500002",
+    "name": "Sint Maarten"
+  },
+  {
+    "id": "IDPAIS000202",
+    "name": "Siria"
+  },
+  {
+    "id": "IDPAIS000198",
+    "name": "Somalia"
+  },
+  {
+    "id": "pai700001",
+    "name": "South Sudan"
+  },
+  {
+    "id": "IDPAIS000125",
+    "name": "Sri Lanka"
+  },
+  {
+    "id": "IDPAIS000203",
+    "name": "Suazilandia"
+  },
+  {
+    "id": "IDPAIS000239",
+    "name": "Sudáfrica"
+  },
+  {
+    "id": "IDPAIS000188",
+    "name": "Sudán"
+  },
+  {
+    "id": "IDPAIS000189",
+    "name": "Suecia"
+  },
+  {
+    "id": "IDPAIS000041",
+    "name": "Suiza"
+  },
+  {
+    "id": "IDPAIS000199",
+    "name": "Surinam"
+  },
+  {
+    "id": "IDPAIS000193",
+    "name": "Svalbard"
+  },
+  {
+    "id": "IDPAIS000064",
+    "name": "Sáhara occid."
+  },
+  {
+    "id": "IDPAIS000208",
+    "name": "Tailandia"
+  },
+  {
+    "id": "IDPAIS000219",
+    "name": "Taiwan"
+  },
+  {
+    "id": "IDPAIS000220",
+    "name": "Tanzania"
+  },
+  {
+    "id": "IDPAIS000209",
+    "name": "Tayikistán"
+  },
+  {
+    "id": "IDPAIS000102",
+    "name": "Terr.br.Oc.Ind."
+  },
+  {
+    "id": "IDPAIS000211",
+    "name": "Timor Oriental"
+  },
+  {
+    "id": "pai200002",
+    "name": "Timor oriental"
+  },
+  {
+    "id": "IDPAIS000207",
+    "name": "Togo"
+  },
+  {
+    "id": "IDPAIS000214",
+    "name": "Tonga"
+  },
+  {
+    "id": "IDPAIS000217",
+    "name": "TrinidadyTobago"
+  },
+  {
+    "id": "IDPAIS000212",
+    "name": "Turkmenistán"
+  },
+  {
+    "id": "IDPAIS000216",
+    "name": "Turquía"
+  },
+  {
+    "id": "IDPAIS000218",
+    "name": "Tuvalu"
+  },
+  {
+    "id": "IDPAIS000213",
+    "name": "Túnez"
+  },
+  {
+    "id": "IDPAIS000221",
+    "name": "Ucrania"
+  },
+  {
+    "id": "IDPAIS000222",
+    "name": "Uganda"
+  },
+  {
+    "id": "pai200007",
+    "name": "Unión Europea"
+  },
+  {
+    "id": "IDPAIS000225",
+    "name": "Uruguay"
+  },
+  {
+    "id": "IDPAIS000226",
+    "name": "Uzbekistán"
+  },
+  {
+    "id": "IDPAIS000233",
+    "name": "Vanuatu"
+  },
+  {
+    "id": "IDPAIS000229",
+    "name": "Venezuela"
+  },
+  {
+    "id": "IDPAIS000232",
+    "name": "Vietnam"
+  },
+  {
+    "id": "IDPAIS000234",
+    "name": "Wallis,Futuna"
+  },
+  {
+    "id": "IDPAIS000238",
+    "name": "YUGOSLAVIA"
+  },
+  {
+    "id": "IDPAIS000236",
+    "name": "Yemen"
+  },
+  {
+    "id": "IDPAIS000056",
+    "name": "Yibuti"
+  },
+  {
+    "id": "pai900001",
+    "name": "ZE_GEO_Dummy EU"
+  },
+  {
+    "id": "pai900002",
+    "name": "ZL_GEO_Dummy LT"
+  },
+  {
+    "id": "pai900003",
+    "name": "ZS_GEO_Dummy AS"
+  },
+  {
+    "id": "pai900004",
+    "name": "ZU_GEO_Dummy US"
+  },
+  {
+    "id": "pai400001",
+    "name": "ZZ_Dummy ROW"
+  },
+  {
+    "id": "IDPAIS000240",
+    "name": "Zambia"
+  },
+  {
+    "id": "IDPAIS000241",
+    "name": "Zimbabue"
+  },
+  {
+    "id": "IDPAIS000136",
+    "name": "de Isl.Marshall"
+  }
+]

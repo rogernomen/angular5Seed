@@ -1,0 +1,1677 @@
+{
+  "mixedOrderConfigurations": [
+    {
+      "id": "1200001",
+      "salesChannel": {
+        "id": "IDAREA000002",
+        "name": "Wholesale"
+      },
+      "salesOrganizations": [
+        {
+          "id": "IDORGV000010",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "ESW1",
+          "order": 999.0,
+          "visible": true,
+          "name": "WH-Wholesale Abasic1",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "WH-Wholesale Abasic1"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA APPAREL"
+            }
+          ]
+        },
+        {
+          "id": "mrc7300002",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USW1",
+          "order": 999.0,
+          "visible": true,
+          "name": "WH-Wholesale USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "WH-Wholesale USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA APPAREL"
+            }
+          ]
+        },
+        {
+          "id": "mrc29700007",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CAW1",
+          "order": 999.0,
+          "visible": true,
+          "name": "WH-Wholesale Canada",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "WH-Wholesale Canada"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CANADA APPAREL"
+            }
+          ]
+        },
+        {
+          "id": "mrc17500003",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "JPW1",
+          "order": 999.0,
+          "visible": true,
+          "name": "WH-Wholesale Japan",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "WH-Wholesale Japan"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "JAPAN APPAREL"
+            }
+          ]
+        },
+        {
+          "id": "mrc33500273",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKW1",
+          "order": 999.0,
+          "visible": true,
+          "name": "WH-Wholesale HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "WH-Wholesale HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "HONG KONG APPAREL"
+            }
+          ]
+        },
+        {
+          "id": "mrc39700035",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "BRW1",
+          "order": 999.0,
+          "visible": true,
+          "name": "WH-Wholesale Brazil",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "WH-Wholesale Brazil"
+            }
+          ]
+        },
+        {
+          "id": "mrc43900038",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CNW1",
+          "order": 999.0,
+          "visible": true,
+          "name": "WH-Wholesale China",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "WH-Wholesale China"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CHINA APPAREL"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "col44",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col42",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col24938",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "IDCOLE000001",
+          "name": "WOMAN",
+          "order": 100
+        },
+        {
+          "id": "IDCOLE000004",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "IDCOLE000002",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "col7773",
+          "name": "BABY BOY",
+          "order": 460
+        },
+        {
+          "id": "col24093",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col7776",
+          "name": "BABY GIRL",
+          "order": 445
+        },
+        {
+          "id": "col24092",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col24987",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24095",
+          "name": "BABY",
+          "order": 460
+        },
+        {
+          "id": "col24984",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col24986",
+          "name": "WOMAN",
+          "order": 100
+        }
+      ]
+    },
+    {
+      "id": "1200002",
+      "salesChannel": {
+        "id": "mrc73300057",
+        "name": "E-Tailers"
+      },
+      "salesOrganizations": [
+        {
+          "id": "mrc73300039",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CNC1",
+          "order": 999.0,
+          "visible": true,
+          "name": "ET-eTailers China",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "ET-eTailers China"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CHINA E-TAILERS"
+            }
+          ]
+        },
+        {
+          "id": "mrc73300012",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "ESC1",
+          "order": 999.0,
+          "visible": true,
+          "name": "ET-eTailers",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "ET-eTailers"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA E-TAILERS"
+            }
+          ]
+        },
+        {
+          "id": "mrc73300035",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USC1",
+          "order": 999.0,
+          "visible": true,
+          "name": "ET-eTailers USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "ET-eTailers USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA E-TAILERS"
+            }
+          ]
+        },
+        {
+          "id": "mrc73300034",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CAC1",
+          "order": 999.0,
+          "visible": true,
+          "name": "ET-eTailers Canada",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "ET-eTailers Canada"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CANADA E-TAILERS"
+            }
+          ]
+        },
+        {
+          "id": "mrc73300043",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "JPC1",
+          "order": 999.0,
+          "visible": true,
+          "name": "ET-eTailers Japan",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "ET-eTailers Japan"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "JAPAN E-TAILERS"
+            }
+          ]
+        },
+        {
+          "id": "mrc73300042",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKC1",
+          "order": 999.0,
+          "visible": true,
+          "name": "ET-eTailers HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "ET-eTailers HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "HONG KONG E-TAILERS"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "col44",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "IDTCOL000100",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col42",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col24938",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "IDCOLE000001",
+          "name": "WOMAN",
+          "order": 100
+        },
+        {
+          "id": "IDCOLE000004",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "IDCOLE000002",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "col7773",
+          "name": "BABY BOY",
+          "order": 460
+        },
+        {
+          "id": "col24093",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col7776",
+          "name": "BABY GIRL",
+          "order": 445
+        },
+        {
+          "id": "col24092",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col24987",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24984",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col24986",
+          "name": "WOMAN",
+          "order": 100
+        }
+      ]
+    },
+    {
+      "id": "1200003",
+      "salesChannel": {
+        "id": "IDAREA000003",
+        "name": "Shoes"
+      },
+      "salesOrganizations": [
+        {
+          "id": "mrc25800020",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USS1",
+          "order": 999.0,
+          "visible": true,
+          "name": "SH-Zapaterias USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "SH-Zapaterias USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA SHOES"
+            }
+          ]
+        },
+        {
+          "id": "mrc25800018",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "JPS1",
+          "order": 999.0,
+          "visible": true,
+          "name": "SH-Zapaterias Japan",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "SH-Zapaterias Japan"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "JAPAN SHOES"
+            }
+          ]
+        },
+        {
+          "id": "mrc25800016",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "ESS1",
+          "order": 999.0,
+          "visible": true,
+          "name": "SH-Zapaterias",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "SH-Zapaterias"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA SHOES"
+            }
+          ]
+        },
+        {
+          "id": "mrc72800073",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CNS1",
+          "order": 999.0,
+          "visible": true,
+          "name": "SH - Shoes China",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "SH - Shoes China"
+            }
+          ]
+        },
+        {
+          "id": "mrc33500272",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKS1",
+          "order": 999.0,
+          "visible": true,
+          "name": "SH- Shoes HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "SH- Shoes HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "HONG KONG SHOES"
+            }
+          ]
+        },
+        {
+          "id": "mrc29700008",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CAS1",
+          "order": 999.0,
+          "visible": true,
+          "name": "SH- Shoes Canada",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "SH- Shoes Canada"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CANADA SHOES"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "IDTCOL000100",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col24987",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24985",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col15713",
+          "name": "SHOES",
+          "order": 999
+        }
+      ]
+    },
+    {
+      "id": "1200004",
+      "salesChannel": {
+        "id": "mrc47300009",
+        "name": "Sport"
+      },
+      "salesOrganizations": [
+        {
+          "id": "mrc46700001",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "ESP1",
+          "order": 999.0,
+          "visible": true,
+          "name": "Sports - Europe",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "Sports - Europe"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA SPORT"
+            }
+          ]
+        },
+        {
+          "id": "mrc47400006",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USP1",
+          "order": 999.0,
+          "visible": true,
+          "name": "Sports - USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "Sports - USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA SPORT"
+            }
+          ]
+        },
+        {
+          "id": "mrc47400005",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CAP1",
+          "order": 999.0,
+          "visible": true,
+          "name": "Sports - Canada",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "Sports - Canada"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CANADA SPORT"
+            }
+          ]
+        },
+        {
+          "id": "mrc111000024",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKP1",
+          "order": 999.0,
+          "visible": true,
+          "name": "Sports - HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "Sports - HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "Sports - HK"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "col12385",
+          "name": "SPORT",
+          "order": 700
+        },
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24987",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col25254",
+          "name": "SPORT SHOES",
+          "order": 703
+        },
+        {
+          "id": "col25253",
+          "name": "SPORT ACCESSORIES",
+          "order": 702
+        },
+        {
+          "id": "col25252",
+          "name": "SPORT APPAREL",
+          "order": 701
+        }
+      ]
+    },
+    {
+      "id": "1200005",
+      "salesChannel": {
+        "id": "mrc41100011",
+        "name": "Living"
+      },
+      "salesOrganizations": [
+        {
+          "id": "mrc40100010",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "ESL1",
+          "order": 999.0,
+          "visible": true,
+          "name": "LV-Living Abasic",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "LV-Living Abasic"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA LIVING"
+            }
+          ]
+        },
+        {
+          "id": "mrc43500025",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKL1",
+          "order": 999.0,
+          "visible": true,
+          "name": "LV-Living HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "LV-Living HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "HONG KONG LIVING"
+            }
+          ]
+        },
+        {
+          "id": "mrc43500024",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CAL1",
+          "order": 999.0,
+          "visible": true,
+          "name": "LV-Living Canada",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "LV-Living Canada"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CANADA LIVING"
+            }
+          ]
+        },
+        {
+          "id": "mrc43500027",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USL1",
+          "order": 999.0,
+          "visible": true,
+          "name": "LV-Living USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "LV-Living USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA LIVING"
+            }
+          ]
+        },
+        {
+          "id": "mrc43500026",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "JPL1",
+          "order": 999.0,
+          "visible": true,
+          "name": "LV-Living Japan",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "LV-Living Japan"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "JAPAN LIVING"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "col8023",
+          "name": "LIVING BED",
+          "order": 615
+        },
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24934",
+          "name": "LIVING BATH",
+          "order": 630
+        },
+        {
+          "id": "col19966",
+          "name": "LIVING WEAR",
+          "order": 660
+        },
+        {
+          "id": "col24935",
+          "name": "LIVING BED",
+          "order": 615
+        },
+        {
+          "id": "col24936",
+          "name": "LIVING WEAR",
+          "order": 660
+        },
+        {
+          "id": "col24987",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col8025",
+          "name": "LIVING BATH",
+          "order": 630
+        }
+      ]
+    },
+    {
+      "id": "1300002",
+      "salesChannel": {
+        "id": "IDAREA000008",
+        "name": "Travel Retail"
+      },
+      "salesOrganizations": [
+        {
+          "id": "mrc30200030",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CAT1",
+          "order": 999.0,
+          "visible": true,
+          "name": "TR-Travel Ret Canada",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "TR-Travel Ret Canada"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "CANADA TRAVEL RETAIL"
+            }
+          ]
+        },
+        {
+          "id": "mrc30100001",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "EST1",
+          "order": 999.0,
+          "visible": true,
+          "name": "TR-Travel Retail ES",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "TR-Travel Retail ES"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA TRAVEL RETAIL"
+            }
+          ]
+        },
+        {
+          "id": "mrc30100002",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "JPT1",
+          "order": 999.0,
+          "visible": true,
+          "name": "TR-Travel Retail JP",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "TR-Travel Retail JP"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "JAPAN TRAVEL RETAIL"
+            }
+          ]
+        },
+        {
+          "id": "mrc30100003",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "UST1",
+          "order": 999.0,
+          "visible": true,
+          "name": "TR-Travel Retail USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "TR-Travel Retail USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA TRAVEL RETAIL"
+            }
+          ]
+        },
+        {
+          "id": "mrc37200005",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKT1",
+          "order": 999.0,
+          "visible": true,
+          "name": "TR-Travel Retail HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "TR-Travel Retail HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "HONG KONG TRAVEL RETAIL"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "IDTCOL000100",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col15715",
+          "name": "SHOES  4 KIDS",
+          "order": 540
+        },
+        {
+          "id": "col24938",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "col15717",
+          "name": "SHOES  4 MAN",
+          "order": 560
+        },
+        {
+          "id": "col25254",
+          "name": "SPORT SHOES",
+          "order": 703
+        },
+        {
+          "id": "col24939",
+          "name": "SHOES  4 MAN",
+          "order": 999
+        },
+        {
+          "id": "col15713",
+          "name": "SHOES",
+          "order": 999
+        },
+        {
+          "id": "IDCOLE000004",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col7773",
+          "name": "BABY BOY",
+          "order": 460
+        },
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "IDCOLE000003",
+          "name": "KIDS",
+          "order": 400
+        },
+        {
+          "id": "col7776",
+          "name": "BABY GIRL",
+          "order": 445
+        },
+        {
+          "id": "col24093",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col24092",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col24095",
+          "name": "BABY",
+          "order": 460
+        },
+        {
+          "id": "col24984",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col24986",
+          "name": "WOMAN",
+          "order": 100
+        },
+        {
+          "id": "col24985",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        }
+      ]
+    },
+    {
+      "id": "1400002",
+      "salesChannel": {
+        "id": "IDAREA000001",
+        "name": "Department Store"
+      },
+      "salesOrganizations": [
+        {
+          "id": "mrc29700006",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CAD1",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS-DS Canada",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS-DS Canada"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000048",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USD1",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS-DS USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS-DS USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA DEPARTEMENT STORE"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000049",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USD2",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS-DS USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS-DS USA"
+            }
+          ]
+        },
+        {
+          "id": "mrc22400023",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "JPD1",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS-DS Japan",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS-DS Japan"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "JAPAN DEPARTEMENT STORE"
+            }
+          ]
+        },
+        {
+          "id": "mrc39800080",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "CND1",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS China",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS China"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000003",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "ESD1",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS Abasic",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS Abasic"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA DEPARTEMENT STORE"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000015",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKD1",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS-DS HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS-DS HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "HONG KONG DEPARTEMENT STORE"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000013",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "GBD1",
+          "order": 999.0,
+          "visible": true,
+          "name": "DS UK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "DS UK"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "col12385",
+          "name": "SPORT",
+          "order": 700
+        },
+        {
+          "id": "IDTCOL000100",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col25254",
+          "name": "SPORT SHOES",
+          "order": 703
+        },
+        {
+          "id": "IDCOLE000001",
+          "name": "WOMAN",
+          "order": 100
+        },
+        {
+          "id": "col25253",
+          "name": "SPORT ACCESSORIES",
+          "order": 702
+        },
+        {
+          "id": "col25252",
+          "name": "SPORT APPAREL",
+          "order": 701
+        },
+        {
+          "id": "IDCOLE000004",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col7773",
+          "name": "BABY BOY",
+          "order": 460
+        },
+        {
+          "id": "IDCOLE000002",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "IDCOLE000003",
+          "name": "KIDS",
+          "order": 400
+        },
+        {
+          "id": "col7776",
+          "name": "BABY GIRL",
+          "order": 445
+        },
+        {
+          "id": "I",
+          "name": "LIVING DECO",
+          "order": 645
+        },
+        {
+          "id": "col19966",
+          "name": "LIVING WEAR",
+          "order": 660
+        },
+        {
+          "id": "col24987",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24984",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col24986",
+          "name": "WOMAN",
+          "order": 100
+        },
+        {
+          "id": "col24985",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col44",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col24933",
+          "name": "LIVING DECO",
+          "order": 645
+        },
+        {
+          "id": "col24934",
+          "name": "LIVING BATH",
+          "order": 630
+        },
+        {
+          "id": "col42",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col24935",
+          "name": "LIVING BED",
+          "order": 615
+        },
+        {
+          "id": "col24936",
+          "name": "LIVING WEAR",
+          "order": 660
+        },
+        {
+          "id": "col15715",
+          "name": "SHOES  4 KIDS",
+          "order": 540
+        },
+        {
+          "id": "col24938",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "col15717",
+          "name": "SHOES  4 MAN",
+          "order": 560
+        },
+        {
+          "id": "col24939",
+          "name": "SHOES  4 MAN",
+          "order": 999
+        },
+        {
+          "id": "col15713",
+          "name": "SHOES",
+          "order": 999
+        },
+        {
+          "id": "col8023",
+          "name": "LIVING BED",
+          "order": 615
+        },
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24094",
+          "name": "SHOES  4 KIDS",
+          "order": 999
+        },
+        {
+          "id": "col24093",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col24092",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col24095",
+          "name": "BABY",
+          "order": 460
+        },
+        {
+          "id": "col8025",
+          "name": "LIVING BATH",
+          "order": 630
+        }
+      ]
+    },
+    {
+      "id": "1500002",
+      "salesChannel": {
+        "id": "IDAREA000004",
+        "name": "Franchise"
+      },
+      "salesOrganizations": [
+        {
+          "id": "IDORGV000021",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "NLF1",
+          "order": 999.0,
+          "visible": true,
+          "name": "FR-Franchise BV",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "FR-Franchise BV"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000035",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "DEF1",
+          "order": 999.0,
+          "visible": true,
+          "name": "FR-Franchise Germany",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "FR-Franchise Germany"
+            }
+          ]
+        },
+        {
+          "id": "mrc35500001",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "HKF1",
+          "order": 999.0,
+          "visible": true,
+          "name": "FR-Franchise HK",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "FR-Franchise HK"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "HONG KONG FRANCHISE"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000042",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "IEF1",
+          "order": 999.0,
+          "visible": true,
+          "name": "FR-Franchise Ireland",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "FR-Franchise Ireland"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000005",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "ESF1",
+          "order": 999.0,
+          "visible": true,
+          "name": "FR-Franchise Abasic",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "FR-Franchise Abasic"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "EUROPA FRANCHISE"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000050",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "USF1",
+          "order": 999.0,
+          "visible": true,
+          "name": "FR-Franchise USA",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "FR-Franchise USA"
+            }
+          ],
+          "b2bMultilanguages": [
+            {
+              "locale": "EN",
+              "value": "USA FRANCHISE"
+            }
+          ]
+        },
+        {
+          "id": "IDORGV000030",
+          "type": "ORGANIZACION_VENTA",
+          "sapCode": "BEF1",
+          "order": 999.0,
+          "visible": true,
+          "name": "FR-Franchise Belgium",
+          "sapMultilanguages": [
+            {
+              "locale": "ES",
+              "value": "FR-Franchise Belgium"
+            }
+          ]
+        }
+      ],
+      "collectionTypes": [
+        {
+          "id": "col12385",
+          "name": "SPORT",
+          "order": 700
+        },
+        {
+          "id": "IDTCOL000100",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col25254",
+          "name": "SPORT SHOES",
+          "order": 703
+        },
+        {
+          "id": "IDCOLE000001",
+          "name": "WOMAN",
+          "order": 100
+        },
+        {
+          "id": "col25253",
+          "name": "SPORT ACCESSORIES",
+          "order": 702
+        },
+        {
+          "id": "col25252",
+          "name": "SPORT APPAREL",
+          "order": 701
+        },
+        {
+          "id": "IDCOLE000004",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col7773",
+          "name": "BABY BOY",
+          "order": 460
+        },
+        {
+          "id": "IDCOLE000002",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "IDCOLE000003",
+          "name": "KIDS",
+          "order": 400
+        },
+        {
+          "id": "col7776",
+          "name": "BABY GIRL",
+          "order": 445
+        },
+        {
+          "id": "I",
+          "name": "LIVING DECO",
+          "order": 645
+        },
+        {
+          "id": "col19966",
+          "name": "LIVING WEAR",
+          "order": 660
+        },
+        {
+          "id": "col24987",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24984",
+          "name": "ACCESSORIES",
+          "order": 200
+        },
+        {
+          "id": "col24986",
+          "name": "WOMAN",
+          "order": 100
+        },
+        {
+          "id": "col24985",
+          "name": "SHOES  4 WOMAN",
+          "order": 520
+        },
+        {
+          "id": "col44",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col24933",
+          "name": "LIVING DECO",
+          "order": 645
+        },
+        {
+          "id": "col24934",
+          "name": "LIVING BATH",
+          "order": 630
+        },
+        {
+          "id": "col42",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col24935",
+          "name": "LIVING BED",
+          "order": 615
+        },
+        {
+          "id": "col24936",
+          "name": "LIVING WEAR",
+          "order": 660
+        },
+        {
+          "id": "col15715",
+          "name": "SHOES  4 KIDS",
+          "order": 540
+        },
+        {
+          "id": "col24938",
+          "name": "MAN",
+          "order": 300
+        },
+        {
+          "id": "col15717",
+          "name": "SHOES  4 MAN",
+          "order": 560
+        },
+        {
+          "id": "col24939",
+          "name": "SHOES  4 MAN",
+          "order": 999
+        },
+        {
+          "id": "col15713",
+          "name": "SHOES",
+          "order": 999
+        },
+        {
+          "id": "col8023",
+          "name": "LIVING BED",
+          "order": 615
+        },
+        {
+          "id": "col4653",
+          "name": "MARKETING",
+          "order": 975
+        },
+        {
+          "id": "col24094",
+          "name": "SHOES  4 KIDS",
+          "order": 999
+        },
+        {
+          "id": "col24093",
+          "name": "GIRL",
+          "order": 415
+        },
+        {
+          "id": "col24092",
+          "name": "BOY",
+          "order": 430
+        },
+        {
+          "id": "col24095",
+          "name": "BABY",
+          "order": 460
+        },
+        {
+          "id": "col8025",
+          "name": "LIVING BATH",
+          "order": 630
+        }
+      ]
+    }
+  ]
+}

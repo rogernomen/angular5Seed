@@ -1,0 +1,524 @@
+{
+  "priceLists": [
+    {
+      "id": "plist1100008",
+      "name": "01 - LEBANON RSP GBP £"
+    },
+    {
+      "id": "plist1920013",
+      "name": "02 - DUBAI RSP USD $"
+    },
+    {
+      "id": "plist2890002",
+      "name": "03 - IRLANDA OUTLET EUR €"
+    },
+    {
+      "id": "plist2690002",
+      "name": "04 - INTL OUTLET USD $"
+    },
+    {
+      "id": "plist1110003",
+      "name": "05 - LIBANO SELL-IN EUR €"
+    },
+    {
+      "id": "plist1960001",
+      "name": "07 - NO USAR - T.29 -10% EUR €"
+    },
+    {
+      "id": "plist1960002",
+      "name": "08 - TARIFA 29 -30% EUR €"
+    },
+    {
+      "id": "plist2180003",
+      "name": "09 - Franquicia Bahrain USD $"
+    },
+    {
+      "id": "plist1930014",
+      "name": "10 - USA WH USD $"
+    },
+    {
+      "id": "plist1930015",
+      "name": "11 - PVP TIENDAS USA USD $"
+    },
+    {
+      "id": "plist1980002",
+      "name": "12 - UKRAINE RSP USD $"
+    },
+    {
+      "id": "plist2690003",
+      "name": "13 - SWITZERLAND WH CHF SFr."
+    },
+    {
+      "id": "plist2690004",
+      "name": "14 - UKRAINE SELL-IN USD $"
+    },
+    {
+      "id": "plist1460007",
+      "name": "15 - Escandallo USA USD $"
+    },
+    {
+      "id": "plist1460008",
+      "name": "16 - USA TXT EUR €"
+    },
+    {
+      "id": "plist230004",
+      "name": "17 - escandallo + 20% EUR €"
+    },
+    {
+      "id": "plist230005",
+      "name": "18 - escandallo PROVISIONAL EUR €"
+    },
+    {
+      "id": "plist230006",
+      "name": "19 - Price Euro EUR €"
+    },
+    {
+      "id": "plist230007",
+      "name": "20 - Price $ USD $"
+    },
+    {
+      "id": "plist230008",
+      "name": "21 - Escandallo Euro EUR €"
+    },
+    {
+      "id": "plist230009",
+      "name": "22 - SPAIN WH EUR €"
+    },
+    {
+      "id": "plist230010",
+      "name": "23 - SPAIN TXT EUR €"
+    },
+    {
+      "id": "plist230011",
+      "name": "24 - INTERNACIONAL WH EUR €"
+    },
+    {
+      "id": "plist230012",
+      "name": "25 - FUTURE MARKET EUR €"
+    },
+    {
+      "id": "plist230013",
+      "name": "26 - COLOMBIA RSP COP $"
+    },
+    {
+      "id": "plist230014",
+      "name": "27 - UK WH GBP £"
+    },
+    {
+      "id": "plist230015",
+      "name": "28 - INTERNACIONAL PVP EUR €"
+    },
+    {
+      "id": "plist230016",
+      "name": "29 - ITALIA OUTLET EUR €"
+    },
+    {
+      "id": "plist230017",
+      "name": "30 - CANADA RSP CAD $"
+    },
+    {
+      "id": "plist230018",
+      "name": "31 - CANADA WH CAD $"
+    },
+    {
+      "id": "plist1100002",
+      "name": "32 - DS Parkson (EUR) EUR €"
+    },
+    {
+      "id": "plist1190002",
+      "name": "33 - JAPAN DS JPY ￥"
+    },
+    {
+      "id": "plist1230003",
+      "name": "34 - ANDORRA RSP EUR €"
+    },
+    {
+      "id": "plist1460003",
+      "name": "35 - HK RSP HKD HK$"
+    },
+    {
+      "id": "plist1460004",
+      "name": "36 - TARIFA 28 -10% EUR €"
+    },
+    {
+      "id": "plist1460005",
+      "name": "37 - TARIFA 28 -30% EUR €"
+    },
+    {
+      "id": "plist1460006",
+      "name": "38 - TARIFA 28 -50% EUR €"
+    },
+    {
+      "id": "plist1650002",
+      "name": "39 - TARIFA 29 -40% EUR €"
+    },
+    {
+      "id": "plist1400014",
+      "name": "40 - SWITZERLAND OUTLET USD $"
+    },
+    {
+      "id": "plist1400015",
+      "name": "41 - SAUDI ARABIA SELL-IN USD $"
+    },
+    {
+      "id": "plist1580002",
+      "name": "42 - KUWAIT RSP USD $"
+    },
+    {
+      "id": "plist1580003",
+      "name": "43 - BAHRAIN SELL-IN USD $"
+    },
+    {
+      "id": "plist1660024",
+      "name": "44 - KUWAIT RSP USD $"
+    },
+    {
+      "id": "plist1660025",
+      "name": "45 - DUBAI SELL-IN USD $"
+    },
+    {
+      "id": "plist1740013",
+      "name": "46 - BAHRAIN RSP USD $"
+    },
+    {
+      "id": "plist1840003",
+      "name": "47 - NO USAR - T.24 + 10% EUR €"
+    },
+    {
+      "id": "plist1730015",
+      "name": "48 - NO USAR - T.28 -20% EUR €"
+    },
+    {
+      "id": "plist1730016",
+      "name": "49 - NO USAR - T.86 -20% GBP £"
+    },
+    {
+      "id": "plist230019",
+      "name": "50 - SWEDEN SELL-IN EUR €"
+    },
+    {
+      "id": "plist230020",
+      "name": "51 - SPAIN RSP EUR €"
+    },
+    {
+      "id": "plist230021",
+      "name": "52 - RUSIA RSP EUR €"
+    },
+    {
+      "id": "plist230022",
+      "name": "53 - FRANQUICIA DUBAI-30% USD $"
+    },
+    {
+      "id": "plist230023",
+      "name": "54 - FRANQUICIA BAHRAIN-30% USD $"
+    },
+    {
+      "id": "plist230024",
+      "name": "55 - REBAJAS 50% EUR €"
+    },
+    {
+      "id": "plist230025",
+      "name": "56 - FRANQUICIA BAHRAIN-50% USD $"
+    },
+    {
+      "id": "plist230026",
+      "name": "57 - SINGAPUR RSP SGD $"
+    },
+    {
+      "id": "plist230027",
+      "name": "58 - DENMARK RSP USD $"
+    },
+    {
+      "id": "plist230028",
+      "name": "59 - SWEDEN RSP SEK kr"
+    },
+    {
+      "id": "plist2320029",
+      "name": "6 - IRLANDA RSP EUR €"
+    },
+    {
+      "id": "plist230029",
+      "name": "60 - NO USAR - T.51 -10% EUR €"
+    },
+    {
+      "id": "plist230030",
+      "name": "61 - NO USAR - T.51 -30% EUR €"
+    },
+    {
+      "id": "plist230031",
+      "name": "62 - NO USAR - T.51 -50% EUR €"
+    },
+    {
+      "id": "plist230032",
+      "name": "63 - EGYPT RSP EUR €"
+    },
+    {
+      "id": "plist230033",
+      "name": "64 - ROMANIA RSP USD $"
+    },
+    {
+      "id": "plist230034",
+      "name": "65 - EGYPT SELL-IN USD $"
+    },
+    {
+      "id": "plist230035",
+      "name": "66 - ROMANIA SELL-IN USD $"
+    },
+    {
+      "id": "plist230036",
+      "name": "67 - NO USAR-FrSaudi$-10% USD $"
+    },
+    {
+      "id": "plist230037",
+      "name": "68 - NO USAR-FrSaudi$-30% USD $"
+    },
+    {
+      "id": "plist230038",
+      "name": "69 - JAPAN RSP  JPY ￥"
+    },
+    {
+      "id": "plist230039",
+      "name": "70 - SPAIN OUTLET EUR €"
+    },
+    {
+      "id": "plist230040",
+      "name": "71 -  DTO. OUTLETS -40 EUR €"
+    },
+    {
+      "id": "plist230041",
+      "name": "72 - DTO. OUTLETS 50% EUR €"
+    },
+    {
+      "id": "plist230042",
+      "name": "73 - DTO. OUTLETS 70% EUR €"
+    },
+    {
+      "id": "plist230043",
+      "name": "74 - PRECIO ÚNICO OUTLET EUR €"
+    },
+    {
+      "id": "plist230044",
+      "name": "75 -  DTO. OUTLET 60% EUR €"
+    },
+    {
+      "id": "plist230045",
+      "name": "76 - TARIFA 57 -10% SGD $"
+    },
+    {
+      "id": "plist230046",
+      "name": "77 - TARIFA 57 -30% SGD $"
+    },
+    {
+      "id": "plist230047",
+      "name": "78 - TARIFA 57 -50% SGD $"
+    },
+    {
+      "id": "plist230048",
+      "name": "79 - SGP P.FIJOS SGD $"
+    },
+    {
+      "id": "plist230049",
+      "name": "80 - TARIFA 57 -70% SGD $"
+    },
+    {
+      "id": "plist230050",
+      "name": "81 - SAUDI ARABIA RSP USD $"
+    },
+    {
+      "id": "plist230051",
+      "name": "82 - Slovakia Sellin EUR €"
+    },
+    {
+      "id": "plist230052",
+      "name": "83 - Soho Outlet EUR €"
+    },
+    {
+      "id": "plist230053",
+      "name": "84 - Asia WH USD $"
+    },
+    {
+      "id": "plist230054",
+      "name": "85 - DOMIN REP RSP GBP £"
+    },
+    {
+      "id": "plist230055",
+      "name": "86 - UK RSP GBP £"
+    },
+    {
+      "id": "plist230056",
+      "name": "87 - JAPAN WH JPY ￥"
+    },
+    {
+      "id": "plist230057",
+      "name": "88 - TARIFA 86 -10% GBP £"
+    },
+    {
+      "id": "plist230058",
+      "name": "89 - TARIFA 86 -30% GBP £"
+    },
+    {
+      "id": "plist230059",
+      "name": "90 - TARIFA 86 -50% GBP £"
+    },
+    {
+      "id": "plist230060",
+      "name": "91 -  PRECIOS FIJOS LONDON GBP £"
+    },
+    {
+      "id": "plist820003",
+      "name": "92 - REBAJAS 70% LONDON GBP £"
+    },
+    {
+      "id": "plist260002",
+      "name": "93 - REBAJAS FIDENZA -50% EUR €"
+    },
+    {
+      "id": "plist260003",
+      "name": "94 - PRECIOS FIJOS FIDENZA EUR €"
+    },
+    {
+      "id": "plist260004",
+      "name": "95 - PRECIOS FIJOS TARIFA 28 EUR €"
+    },
+    {
+      "id": "plist260005",
+      "name": "96 - PRECIOS CORNERS MALAYSIA USD $"
+    },
+    {
+      "id": "plist1610003",
+      "name": "97 - TARIFA 29 -70% EUR €"
+    },
+    {
+      "id": "plist1730017",
+      "name": "98 - TARIFA 51 -20% EUR €"
+    },
+    {
+      "id": "plist230061",
+      "name": "99 - SWITZERLAND RSP CHF SFr."
+    },
+    {
+      "id": "plist15190010",
+      "name": "D1 - PVM INT. NO PROMO EUR €"
+    },
+    {
+      "id": "plist26580006",
+      "name": "D5 - CHINA RSP CNY ￥"
+    },
+    {
+      "id": "plist18070003",
+      "name": "D6 - CHINA WH USD $"
+    },
+    {
+      "id": "plist27190005",
+      "name": "D8 - INDONESIA RSP USD $"
+    },
+    {
+      "id": "plist27190003",
+      "name": "E1 - FILIPINAS RSP USD $"
+    },
+    {
+      "id": "plist20670004",
+      "name": "E2 - FILIPINAS E2 USD $"
+    },
+    {
+      "id": "plist27380003",
+      "name": "E3 - FINLAND RSP EUR €"
+    },
+    {
+      "id": "plist20670008",
+      "name": "E6 - Panama Sell In USD $"
+    },
+    {
+      "id": "plist16820003",
+      "name": "E7 - SPAIN + PT RSP EUR €"
+    },
+    {
+      "id": "plist18520003",
+      "name": "E8 - Panamà USD $"
+    },
+    {
+      "id": "plist16690003",
+      "name": "E9 - BRASIL WH BRL R$"
+    },
+    {
+      "id": "plist24500004",
+      "name": "F6 - MEXICO RETAIL MXN $"
+    },
+    {
+      "id": "plist17960003",
+      "name": "F7 - MEXICO WH MXN $"
+    },
+    {
+      "id": "plist25130003",
+      "name": "H4 - HK WH USD $"
+    },
+    {
+      "id": "plist33010003",
+      "name": "H5 - COLOMBIA RSP -40 COP $"
+    },
+    {
+      "id": "plist33010005",
+      "name": "H6 - AUSTRALIA Reseller P USD $"
+    },
+    {
+      "id": "plist33640004",
+      "name": "H7 - CHINA ONLINE RSP CNY ￥"
+    },
+    {
+      "id": "plist23100003",
+      "name": "I0 - BEAUTY MÜLLER EUR €"
+    },
+    {
+      "id": "plist22660004",
+      "name": "I8 - WH BEAUTY EUR €"
+    },
+    {
+      "id": "plist23100005",
+      "name": "I9 - Beauty Sephora (EUROPA) EUR €"
+    },
+    {
+      "id": "plist23100009",
+      "name": "IA - SEPHORA MM USA USD $"
+    },
+    {
+      "id": "plist26440004",
+      "name": "K9 - CHILE EUR €"
+    },
+    {
+      "id": "plist26440007",
+      "name": "L1 - COLOMBIA EUR €"
+    },
+    {
+      "id": "plist28920005",
+      "name": "L2 - WS FRQ MEXICO USD $"
+    },
+    {
+      "id": "plist27440004",
+      "name": "M5 - WH INT -15% EUR €"
+    },
+    {
+      "id": "plist27440006",
+      "name": "M6 - WH INT -20% EUR €"
+    },
+    {
+      "id": "plist27440009",
+      "name": "M7 - WH INT -25% EUR €"
+    },
+    {
+      "id": "plist32360003",
+      "name": "N2 - WH PERU EUR €"
+    },
+    {
+      "id": "plist28350003",
+      "name": "N3 - WH MALASIA USD $"
+    },
+    {
+      "id": "plist26460003",
+      "name": "XXXX - XXXX CHINA RSP CNY ￥"
+    },
+    {
+      "id": "plist16850003",
+      "name": "Z7 - USA RSP USD $"
+    }
+  ]
+}

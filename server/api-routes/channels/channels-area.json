@@ -1,0 +1,186 @@
+{
+  "markList": [
+    {
+      "id": "IDAREA000001",
+      "type": "TIPO_AREA",
+      "sapCode": "DS",
+      "dglCode": "DS",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST079",
+        "icon": "icon-departmentstore",
+        "name": "Department Store"
+      },
+      "name": "Department Store"
+    },
+    {
+      "id": "IDAREA000008",
+      "type": "TIPO_AREA",
+      "sapCode": "TR",
+      "dglCode": "TR",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST069",
+        "icon": "icon-retailtravel",
+        "name": "Travel retail"
+      },
+      "name": "Travel Retail"
+    },
+    {
+      "id": "IDAREA000005",
+      "type": "TIPO_AREA",
+      "sapCode": "RT",
+      "dglCode": "RT",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST072",
+        "icon": "icon-retail",
+        "name": "Retail"
+      },
+      "name": "Retail"
+    },
+    {
+      "id": "IDAREA000006",
+      "type": "TIPO_AREA",
+      "sapCode": "EC",
+      "dglCode": "EC",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST077",
+        "icon": "icon-ecommerce",
+        "name": "eCommerce"
+      },
+      "name": "eCommerce"
+    },
+    {
+      "id": "IDAREA000007",
+      "type": "TIPO_AREA",
+      "sapCode": "IN",
+      "dglCode": "IN",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST074",
+        "icon": "icon-intercompany",
+        "name": "Intercompany"
+      },
+      "name": "Intercompany"
+    },
+    {
+      "id": "IDAREA000004",
+      "type": "TIPO_AREA",
+      "sapCode": "FR",
+      "dglCode": "FR",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST076",
+        "icon": "icon-franchise",
+        "name": "Franchise"
+      },
+      "name": "Franchise"
+    },
+    {
+      "id": "mrc57800047",
+      "type": "TIPO_AREA",
+      "sapCode": "HR",
+      "dglCode": "HR",
+      "order": 999.0,
+      "visible": false,
+      "style": {
+        "id": "MANEST075",
+        "icon": "icon-resort",
+        "name": "Hotels & Resorts"
+      },
+      "name": "Hotels & Resorts"
+    },
+    {
+      "id": "mrc47300009",
+      "type": "TIPO_AREA",
+      "sapCode": "SP",
+      "dglCode": "SP",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST070",
+        "icon": "icon-sport",
+        "name": "Sport"
+      },
+      "name": "Sport"
+    },
+    {
+      "id": "mrc50100026",
+      "type": "TIPO_AREA",
+      "sapCode": "BT",
+      "dglCode": "BT",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST080",
+        "icon": "icon-beauty",
+        "name": "Beauty"
+      },
+      "name": "Beauty"
+    },
+    {
+      "id": "mrc73300057",
+      "type": "TIPO_AREA",
+      "sapCode": "ET",
+      "dglCode": "ET",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST078",
+        "icon": "icon-etailer",
+        "name": "E-Tailers"
+      },
+      "name": "E-Tailers"
+    },
+    {
+      "id": "IDAREA000002",
+      "type": "TIPO_AREA",
+      "sapCode": "WH",
+      "dglCode": "WH",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST068",
+        "icon": "icon-apparel",
+        "name": "Wholesale"
+      },
+      "name": "Wholesale"
+    },
+    {
+      "id": "IDAREA000003",
+      "type": "TIPO_AREA",
+      "sapCode": "SH",
+      "dglCode": "SH",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST071",
+        "icon": "icon-shoes",
+        "name": "Shoes"
+      },
+      "name": "Shoes"
+    },
+    {
+      "id": "mrc41100011",
+      "type": "TIPO_AREA",
+      "sapCode": "LV",
+      "dglCode": "LV",
+      "order": 999.0,
+      "visible": true,
+      "style": {
+        "id": "MANEST073",
+        "icon": "icon-living",
+        "name": "Living"
+      },
+      "name": "Living"
+    }
+  ]
+}
