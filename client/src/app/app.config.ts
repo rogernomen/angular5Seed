@@ -30,9 +30,7 @@ export const APP_CONSTANTS: AppConfig = {
     },
     VIEW: {
       EMPTY: '',
-      LOGIN: 'login',
-      HOME: 'home',
-      DEMO: 'demo'
+      LOGIN: 'login'
     }
   }
 };

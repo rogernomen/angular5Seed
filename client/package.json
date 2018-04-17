@@ -8,7 +8,7 @@
     "build": "ng build --prod --aot",
     "build-local": "ng build --prod --aot --base-href .",
     "start-local-build": "ng serve --prod --aot -w -pc ./proxy/proxy-local.conf.json --open -lr -p 9000 -ssl true --host 0.0.0.0",
-    "start-local": "ng serve --extract-css=true -w -pc ./proxy/proxy-local.conf.json --open -lr -p 9000 --host 0.0.0.0 --disableHostCheck true",
+    "start-local": "ng serve --aot --extract-css=true -w -pc ./proxy/proxy-local.conf.json --open -lr -p 9000 --host 0.0.0.0 --disableHostCheck true",
     "start-pre": "ng serve --extract-css=true -w -pc ./proxy/proxy-pre.conf.js --open -lr -p 9000 --host 0.0.0.0 --disableHostCheck true",
     "start-pro": "ng serve --extract-css=true -w -pc ./proxy/proxy-pro.conf.js --open -lr -p 9000 --host 0.0.0.0 --disableHostCheck true",
     "start-hmr-local": "ng serve --hmr --env=hmr -w -pc ./proxy/proxy-local.conf.json --open -lr -p 9000 --host 0.0.0.0 --disableHostCheck true",

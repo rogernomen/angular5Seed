@@ -7,12 +7,12 @@ import * as http from 'http';
 
 
 import * as bodyParser from 'body-parser';
-import * as mockLogin from './api-routes/login/login-routes';
+import * as mockLogin from "./api-routes/login/login-routes";
 
 
 
 const app = express();
-const port = 4444;
+const port = 3001;
 const portHttps = 4443;
 
 
@@ -38,6 +38,7 @@ const httpServer = http.createServer(app);
 const httpsServer = https.createServer(credentials, app);
 httpServer.listen(port);
 httpsServer.listen(portHttps);
+
 
 console.log(`Server port: ${port}`);
 console.log(`Server SSL port: ${portHttps}`);

@@ -20,6 +20,7 @@ export function createMock(router) {
 function loginMock(router) {
     router.post('/api/login', (req, res) => {
         console.log('POST /api/login');
+        console.log('username', req.body.username);
         if (req.body.username && req.body.username === req.body.password) {
             res.json(loginOK);
         } else {
